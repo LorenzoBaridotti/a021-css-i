@@ -1,0 +1,29 @@
+main {
+    font-family: Helvetica;
+}
+
+.bloco {
+    margin: 20px;
+    height: 80px;
+    width: 280px
+}
+
+#bloco-1 {
+    background-color: darkolivegreen;
+    border: 5px solid green;
+}
+
+#bloco-2 {
+    background-color: orange;
+    border: 5px solid lightsalmon;
+}
+
+#bloco-3 {
+    background-color: darkgreen;
+    border: 5px dashed green;
+}
+
+#bloco-4 {
+    background-color: red;
+    border: 5px dashed salmon;
+}
